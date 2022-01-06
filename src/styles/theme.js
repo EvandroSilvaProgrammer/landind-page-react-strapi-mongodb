@@ -1,4 +1,6 @@
 export const theme = {
-	mainBg: '#fafafa',
-	secondaryBg: 'blue',
+  colors: {
+    mainBg: 'yellow',
+    secondaryBg: 'red',
+  },
 };
