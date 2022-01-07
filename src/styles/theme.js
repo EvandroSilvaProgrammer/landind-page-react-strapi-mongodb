@@ -3,7 +3,11 @@ export const theme = {
     primaryColor: '#0A1128',
     secondaryColor: '#dc143c',
     white: '#FFFFFF',
-    // lightBg: '#FFFFFF',
-    // darkBg: '#0A1128',
+  },
+  font: {
+    family: {
+      default: "'Open Sans', sans-serif",
+      titles: "'Montserrat', sans-serif",
+    },
   },
 };
